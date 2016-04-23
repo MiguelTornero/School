@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1461028022 source:c:\users\miguel\google drive\school\programing fundamentals\c++\stringtolowercase\main.cpp
+	<iostream>
+	<string>
+
