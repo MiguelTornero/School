@@ -1,2 +1,2 @@
 # School
-Homework and class activities from school
+Homework and class activities from school.
