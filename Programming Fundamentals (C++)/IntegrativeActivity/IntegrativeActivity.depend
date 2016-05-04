@@ -1,5 +1,6 @@
 # depslib dependency file v1.0
-1461384095 source:c:\users\miguel\google drive\school\programing fundamentals\c++\integrativeactivity\main.cpp
+1461967102 source:c:\users\miguel\google drive\school\programing fundamentals\c++\integrativeactivity\main.cpp
 	<iostream>
 	<string>
+	<cmath>
 

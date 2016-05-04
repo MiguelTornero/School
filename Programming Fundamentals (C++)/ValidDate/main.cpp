@@ -1,6 +1,7 @@
 #include <iostream>
 
 using namespace std;
+
 int iDay, iMonth, iYear, iValidDays;
 bool bValidDate = true;
 int main()
